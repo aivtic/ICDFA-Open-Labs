@@ -245,7 +245,7 @@ cat solutions/solution.md
 
 ### 5. Experiment and Extend
 
-Don't just follow instructions—try variations:
+Don't just follow instructionstry variations:
 
 - Change parameters
 - Combine techniques
