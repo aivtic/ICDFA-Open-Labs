@@ -64,4 +64,4 @@ If you have any questions about this Code of Conduct, please reach out to the pr
 
 ---
 
-Thank you for helping make ICDFA-Open-Labs a welcoming community! 🌟
+Thank you for helping make ICDFA-Open-Labs a welcoming community! 

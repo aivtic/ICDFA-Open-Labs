@@ -151,7 +151,7 @@ Establish ICDFA Open Labs as the leading open-source cybersecurity education pla
 
 #### Penetration Testing (10+ labs)
 
-- [ ] Nmap Basics ✓
+- [ ] Nmap Basics 
 - [ ] Metasploit Basics
 - [ ] Burp Suite Basics
 - [ ] Exploit Development
@@ -164,7 +164,7 @@ Establish ICDFA Open Labs as the leading open-source cybersecurity education pla
 
 #### Digital Forensics (8+ labs)
 
-- [ ] File Carving Basics ✓
+- [ ] File Carving Basics 
 - [ ] Memory Forensics
 - [ ] Log Analysis
 - [ ] Network Forensics
@@ -186,7 +186,7 @@ Establish ICDFA Open Labs as the leading open-source cybersecurity education pla
 
 #### Web Application Security (10+ labs)
 
-- [ ] SQL Injection Basics ✓
+- [ ] SQL Injection Basics 
 - [ ] Cross-Site Scripting (XSS)
 - [ ] Cross-Site Request Forgery (CSRF)
 - [ ] Authentication Bypass
@@ -348,4 +348,4 @@ ICDFA Open Labs aims to:
 - Email: contact@icdfa.com
 - Check the FAQ for common questions
 
-We appreciate your interest in ICDFA Open Labs! 🚀
+We appreciate your interest in ICDFA Open Labs! 

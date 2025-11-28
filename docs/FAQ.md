@@ -419,4 +419,4 @@ If your question isn't answered here:
 3. Open a [GitHub Discussion](https://github.com/aivtic/ICDFA-Open-Labs/discussions)
 4. Email: contact@icdfa.com
 
-We're here to help! 🙌
+We're here to help! 

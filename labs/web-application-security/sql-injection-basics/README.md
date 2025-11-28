@@ -318,4 +318,4 @@ Email: contact@icdfa.com
 
 ---
 
-**Happy Learning!** 🔐
+**Happy Learning!** 

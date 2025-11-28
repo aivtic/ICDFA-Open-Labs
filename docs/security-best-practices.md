@@ -304,4 +304,4 @@ For security-related questions:
 
 ---
 
-**Remember: Security is everyone's responsibility. Thank you for helping keep ICDFA Open Labs secure!** 🔐
+**Remember: Security is everyone's responsibility. Thank you for helping keep ICDFA Open Labs secure!** 

@@ -2,11 +2,11 @@
 
 An open-source collection of cybersecurity and digital forensics labs and educational materials from the **International Cybersecurity & Digital Forensics Academy (ICDFA)**.
 
-## 🎯 Mission
+## Mission
 
 To democratize cybersecurity education by providing high-quality, hands-on resources for free, fostering a culture of open collaboration and continuous learning.
 
-## 📚 What's Inside
+## What's Inside
 
 This repository contains a comprehensive collection of labs and educational materials organized by topic and difficulty level:
 
@@ -17,7 +17,7 @@ This repository contains a comprehensive collection of labs and educational mate
 - **Capture The Flag (CTF) Challenges** - Competitive security challenges
 - **Guided Tutorials** - Step-by-step learning resources for beginners
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -41,30 +41,30 @@ This repository contains a comprehensive collection of labs and educational mate
 
 3. Follow the README in each lab directory for specific setup instructions.
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ICDFA-Open-Labs/
-├── labs/
-│   ├── penetration-testing/
-│   ├── digital-forensics/
-│   ├── network-security/
-│   ├── web-application-security/
-│   └── ctf-challenges/
-├── docs/
-│   ├── getting-started.md
-│   ├── lab-creation-guide.md
-│   └── best-practices.md
-├── templates/
-│   ├── lab-template/
-│   └── documentation-template/
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── LICENSE
-└── README.md
+ labs/
+    penetration-testing/
+    digital-forensics/
+    network-security/
+    web-application-security/
+    ctf-challenges/
+ docs/
+    getting-started.md
+    lab-creation-guide.md
+    best-practices.md
+ templates/
+    lab-template/
+    documentation-template/
+ CONTRIBUTING.md
+ CODE_OF_CONDUCT.md
+ LICENSE
+ README.md
 ```
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the community! Whether you want to add new labs, improve existing ones, or fix documentation, please read our [CONTRIBUTING.md](CONTRIBUTING.md) guide for detailed instructions.
 
@@ -76,28 +76,28 @@ We welcome contributions from the community! Whether you want to add new labs, i
 4. Push to the branch (`git push origin feature/amazing-lab`)
 5. Open a Pull Request
 
-## 📋 Code of Conduct
+## Code of Conduct
 
 We are committed to providing a welcoming and inclusive environment for all contributors. Please read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before participating.
 
-## 📄 License
+## License
 
 This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License** (CC BY-SA 4.0). See the [LICENSE](LICENSE) file for details.
 
-## 🎓 About ICDFA
+## About ICDFA
 
 The International Cybersecurity & Digital Forensics Academy (ICDFA) is a leading provider of practical, hands-on cybersecurity training. For more information, visit [ICDFA's official website](https://www.icdfa.com).
 
-## 📞 Support
+## Support
 
 - **Issues:** Use the [GitHub Issues](https://github.com/aivtic/ICDFA-Open-Labs/issues) page to report bugs or request features
 - **Discussions:** Join our [GitHub Discussions](https://github.com/aivtic/ICDFA-Open-Labs/discussions) for questions and community support
 - **Email:** contact@icdfa.com
 
-## 🌟 Acknowledgments
+## Acknowledgments
 
 We thank all contributors and the cybersecurity community for their support in making quality education accessible to everyone.
 
 ---
 
-**Happy Learning! 🔐**
+**Happy Learning!**

@@ -388,7 +388,7 @@ We're planning:
 
 Thank you for being part of the ICDFA Open Labs community! Your participation, contributions, and feedback make this project possible.
 
-Together, we're making quality cybersecurity education accessible to everyone. 🙌
+Together, we're making quality cybersecurity education accessible to everyone. 
 
 ---
 
@@ -398,4 +398,4 @@ Together, we're making quality cybersecurity education accessible to everyone. �
 - Ask in Discussions
 - Email: contact@icdfa.com
 
-**Welcome to our community!** 🎉
+**Welcome to our community!** 

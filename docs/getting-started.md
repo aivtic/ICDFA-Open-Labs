@@ -293,4 +293,4 @@ Don't just follow instructions—try variations:
 
 ---
 
-Happy learning! If you have any questions, please reach out to the community or open an issue on GitHub. 🚀
+Happy learning! If you have any questions, please reach out to the community or open an issue on GitHub. 

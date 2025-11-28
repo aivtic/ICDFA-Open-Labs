@@ -8,21 +8,21 @@ Every lab should follow this directory structure:
 
 ```
 lab-name/
-├── README.md                 # Lab overview and instructions
-├── setup.sh                  # Automated setup script
-├── cleanup.sh                # Cleanup script
-├── requirements.txt          # Python dependencies (if applicable)
-├── Dockerfile                # Docker configuration (if applicable)
-├── docker-compose.yml        # Docker Compose (if applicable)
-├── solutions/                # Solution files (optional)
-│   └── solution.md
-├── resources/                # Supporting files
-│   ├── config/
-│   ├── scripts/
-│   └── data/
-└── docs/                     # Additional documentation
-    ├── troubleshooting.md
-    └── learning-objectives.md
+ README.md                 # Lab overview and instructions
+ setup.sh                  # Automated setup script
+ cleanup.sh                # Cleanup script
+ requirements.txt          # Python dependencies (if applicable)
+ Dockerfile                # Docker configuration (if applicable)
+ docker-compose.yml        # Docker Compose (if applicable)
+ solutions/                # Solution files (optional)
+    solution.md
+ resources/                # Supporting files
+    config/
+    scripts/
+    data/
+ docs/                     # Additional documentation
+     troubleshooting.md
+     learning-objectives.md
 ```
 
 ## Step-by-Step Lab Creation
@@ -282,12 +282,12 @@ Organize supporting files in `resources/`:
 
 ```
 resources/
-├── config/
-│   └── example.conf
-├── scripts/
-│   └── helper.py
-└── data/
-    └── sample.txt
+ config/
+    example.conf
+ scripts/
+    helper.py
+ data/
+     sample.txt
 ```
 
 ### Step 10: Create Documentation
@@ -470,4 +470,4 @@ Need help creating your lab?
 
 ---
 
-Thank you for creating quality educational content! 🙏
+Thank you for creating quality educational content! 

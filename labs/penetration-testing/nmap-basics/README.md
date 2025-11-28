@@ -367,4 +367,4 @@ If you have questions about this lab:
 
 ---
 
-**Happy Learning!** 🔐
+**Happy Learning!** 

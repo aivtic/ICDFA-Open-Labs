@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to ICDFA-Open-Labs! We welcome contributions from everyone, regardless of experience level. This guide will help you get started.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
 - [How to Contribute](#how-to-contribute)
@@ -136,20 +136,20 @@ Each lab should follow this directory structure:
 
 ```
 lab-name/
-├── README.md                 # Lab overview and instructions
-├── setup.sh                  # Automated setup script
-├── cleanup.sh                # Cleanup script
-├── requirements.txt          # Python dependencies (if applicable)
-├── Dockerfile                # Docker configuration (if applicable)
-├── solutions/                # Solution files (optional)
-│   └── solution.md
-├── resources/                # Supporting files
-│   ├── config/
-│   ├── scripts/
-│   └── data/
-└── docs/                     # Additional documentation
-    ├── troubleshooting.md
-    └── learning-objectives.md
+ README.md                 # Lab overview and instructions
+ setup.sh                  # Automated setup script
+ cleanup.sh                # Cleanup script
+ requirements.txt          # Python dependencies (if applicable)
+ Dockerfile                # Docker configuration (if applicable)
+ solutions/                # Solution files (optional)
+    solution.md
+ resources/                # Supporting files
+    config/
+    scripts/
+    data/
+ docs/                     # Additional documentation
+     troubleshooting.md
+     learning-objectives.md
 ```
 
 ### Lab README Template
@@ -312,4 +312,4 @@ All submissions go through a review process:
 
 ---
 
-Thank you for contributing to ICDFA-Open-Labs! Your efforts help make cybersecurity education accessible to everyone. 🙏
+Thank you for contributing to ICDFA-Open-Labs! Your efforts help make cybersecurity education accessible to everyone. 
