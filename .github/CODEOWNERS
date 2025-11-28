@@ -1,0 +1,29 @@
+# CODEOWNERS file for ICDFA Open Labs
+# This file specifies code owners for different parts of the repository
+
+# Default owners for everything in the repo
+* @aivtic
+
+# Documentation owners
+/docs/ @aivtic
+/README.md @aivtic
+/CONTRIBUTING.md @aivtic
+
+# Lab category owners
+/labs/penetration-testing/ @aivtic
+/labs/digital-forensics/ @aivtic
+/labs/network-security/ @aivtic
+/labs/web-application-security/ @aivtic
+/labs/ctf-challenges/ @aivtic
+
+# GitHub configuration
+/.github/ @aivtic
+/.github/workflows/ @aivtic
+
+# Root configuration files
+/LICENSE @aivtic
+/CODE_OF_CONDUCT.md @aivtic
+/.gitignore @aivtic
+
+# Templates
+/templates/ @aivtic

@@ -1,0 +1,79 @@
+# GitHub Project Configuration for ICDFA Open Labs
+
+name: ICDFA Open Labs
+description: Open-source cybersecurity and digital forensics labs
+
+# Project settings
+settings:
+  allow_auto_merge: true
+  allow_update_branch: true
+  delete_branch_on_merge: true
+  require_conversation_resolution: true
+  require_code_review_from_code_owners: true
+  require_status_checks_to_pass: true
+  require_branches_to_be_up_to_date: true
+  enforce_admins: true
+  restrict_who_can_push_to_matching_branches:
+    - pattern: main
+      allows_deletions: false
+      allows_force_pushes: false
+
+# Labels
+labels:
+  - name: "bug"
+    color: "d73a4a"
+    description: "Something isn't working"
+  
+  - name: "enhancement"
+    color: "a2eeef"
+    description: "New feature or request"
+  
+  - name: "documentation"
+    color: "0075ca"
+    description: "Improvements or additions to documentation"
+  
+  - name: "good first issue"
+    color: "7057ff"
+    description: "Good for newcomers"
+  
+  - name: "help wanted"
+    color: "008672"
+    description: "Extra attention is needed"
+  
+  - name: "lab-creation"
+    color: "ffd700"
+    description: "New lab submission"
+  
+  - name: "lab-improvement"
+    color: "ffb347"
+    description: "Improvement to existing lab"
+  
+  - name: "security"
+    color: "ff0000"
+    description: "Security vulnerability"
+  
+  - name: "beginner"
+    color: "90ee90"
+    description: "Beginner level lab"
+  
+  - name: "intermediate"
+    color: "87ceeb"
+    description: "Intermediate level lab"
+  
+  - name: "advanced"
+    color: "9370db"
+    description: "Advanced level lab"
+
+# Milestones
+milestones:
+  - title: "Phase 1: Foundation"
+    description: "Establish core infrastructure and initial labs"
+    due_date: "2024-06-30"
+  
+  - title: "Phase 2: Expansion"
+    description: "Expand lab offerings and build community"
+    due_date: "2024-12-31"
+  
+  - title: "Phase 3: Maturity"
+    description: "Advanced features and ecosystem development"
+    due_date: "2025-12-31"
